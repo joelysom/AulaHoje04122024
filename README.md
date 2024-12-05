@@ -125,8 +125,4 @@ Este exercício foi uma oportunidade para aplicar conceitos de estilização de 
 - Não teR medo de experimentar diferentes estilos e efeitos para melhorar a interface.
 
 
-
-### O que foi adicionado:
-- **Passos do exercício**: A descrição das etapas que você seguiu, desde a configuração da aplicação até a estilização e o papel de parede.
-- **Tutorial do papel de parede**: Explicação detalhada de como adicionar o papel de parede nas caixas de tarefas.
-- **Reflexão e citação**: Uma reflexão sobre o processo, acompanhada de uma citação inspiradora de Simone de Beauvoir.
+---
