@@ -121,9 +121,9 @@ Este exercício foi uma oportunidade para aplicar conceitos de estilização de 
 ---
 
 **Dicas Finais:**
-- Sempre verifique o caminho das imagens quando estiver trabalhando com arquivos estáticos em React.
-- Não tenha medo de experimentar diferentes estilos e efeitos para melhorar a usabilidade da interface.
-- O design é um processo contínuo. À medida que você refina, a aplicação se torna mais intuitiva e atraente.
+- Sempre verifiCARo caminho das imagens quando estiver trabalhando com arquivos estáticos em React.
+- Não teR medo de experimentar diferentes estilos e efeitos para melhorar a interface.
+
 
 
 ### O que foi adicionado:
