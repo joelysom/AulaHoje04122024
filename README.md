@@ -92,5 +92,3 @@ Edite o arquivo `App.js` para incluir novos recursos, como autenticação via AP
 Este projeto é livre para uso pessoal e acadêmico. Para outras finalidades, entre em contato com a **Protec**.
 
 ---
-
-Se precisar de mais algum ajuste, é só avisar! 😊
