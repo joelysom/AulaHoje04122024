@@ -65,7 +65,7 @@ Este site foi projetado para atender às necessidades de design e funcionalidade
 
 Imagem do site configurado e funcional:
 
-![Configurado](print_1.png)
+![Configurado](print_1.PNG)
 
 ---
 
